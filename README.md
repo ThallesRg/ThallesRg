@@ -1,13 +1,13 @@
 ---
 ### :v: Hi there, I'm Thalles - :heartbeat: nice to meet you :heartbeat:
 ---
-## I'm a Developer, Swimmer, Student, and Teacher!!
+## I'm a Developer, Swimmer, Student, and Gamer!!
 
 - 🔭 Discovering myself as a programmer (and person)
 - 🌱 I’m currently learning everything 
 - 👯 I'm addicted to courses
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I steal my own refrigerator at dawn 
+- ⚡ Fun fact: 60% of my body is made up of coffee
 
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ThallesRg&show_icons=true&hide_border=true" />
     
