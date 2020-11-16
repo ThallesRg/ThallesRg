@@ -1,8 +1,8 @@
 ### Hi there, I'm Thalles - <3 👋
+---
+## I'm a Developer, Swimmer, Student, and Teacher!!
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Discovering me as a programmer (and person)!
+- 🔭 Discovering me as a programmer (and person)!!
 - 🌱 I’m currently learning everything 
 - 👯 I'm addicted to courses
 - 🥅 2020 Goals: Contribute more to Open Source projects
