@@ -1,3 +1,4 @@
+---
 ### Hi there, I'm Thalles - <3 👋
 ---
 ## I'm a Developer, Swimmer, Student, and Teacher!!
