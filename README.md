@@ -3,7 +3,7 @@
 ---
 ## I'm a Developer, Swimmer, Student, and Teacher!!
 
-- 🔭 Discovering me as a programmer (and person)
+- 🔭 Discovering myself as a programmer (and person)
 - 🌱 I’m currently learning everything 
 - 👯 I'm addicted to courses
 - 🥅 2021 Goals: Contribute more to Open Source projects
