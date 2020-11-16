@@ -1,5 +1,5 @@
 ---
-### Hi there, I'm Thalles - :heartbeat: nice to meet you :heartbeat:
+### :v: Hi there, I'm Thalles - :heartbeat: nice to meet you :heartbeat:
 ---
 ## I'm a Developer, Swimmer, Student, and Teacher!!
 
