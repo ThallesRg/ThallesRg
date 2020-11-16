@@ -1,17 +1,12 @@
 ### Hi there, I'm Thalles - <3 👋
 
----
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 Discovering me as a programmer (and person)!
+- 🌱 I’m currently learning everything 
+- 👯 I'm addicted to courses
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I steal my own refrigerator at dawn 
 
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ThallesRg&show_icons=true&hide_border=true" />
     
